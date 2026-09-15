@@ -1,757 +1,1056 @@
 {
- "slug": "mathnasium",
- "brand": "Mathnasium",
- "field_count": 99,
- "franchiseFee": 49000,
- "totalInvestmentMin": 127316,
- "totalInvestmentMax": 165846,
- "royaltyPercent": "10%",
- "adFee": "2%",
- "totalUnits": 1047,
- "openLocations": 1047,
- "corporateCity": "Los Angeles",
- "corporateState": "CA",
- "corporateZip": "90056",
- "corporateAddress": "5120 West Goldleaf Circle, Suite 400, Los Angeles, CA 90056",
- "description": "Mathnasium is a math-only learning-center franchise: children attend centers typically twice a week for ~60-minute sessions using the Mathnasium education method. The franchisor, Mathnasium Franchisor LLC of Los Angeles, California (a Delaware LLC organized July 2024, majority owned via Roark Capital since 2021), began offering franchises in September 2024; the brand has been franchised since 2003. Per the 2026 FDD, the franchise fee is $49,000, total initial investment ranges from $127,316 to $165,846, royalties are 10% of gross receipts ($650/mo base royalty; $1,500/mo minimum from month 24) plus $250+2% marketing and $1,000/mo digital/local marketing, and territories are designated with protective rights but not exclusive. Item 19 (2025): 914 reporting centers averaged $384,874 in gross receipts with average operating profit of $117,000 (30.4%). The US system grew from 972 outlets at end-2023 to 1,047 at end-2025.",
- "category": "Education",
- "websiteUrl": "https://www.mathnasium.com",
- "logoUrl": "https://www.mathnasium.com/themes/mathnasium/assets/images/favicon.ico",
- "yearFounded": 2003,
- "fddYear": 2026,
- "territoryDescription": "Designated territory with protective rights but NOT exclusive: at least 2,500 children ages 5-19 at signing; franchisor reserves broad rights (other channels, schools/distance learning, company centers outside territory, competing systems); boundaries may be reconfigured; center must sit inside the territory.",
- "item12": "protected",
- "item12_detail": "designated territory with protective rights but NOT exclusive (Item 12, p.38)",
- "item20PinCount": 15,
- "item20_fdd_count": 1047,
- "item20_reconciliation": "FDD Item 20 Table No. 1 (p.58): 1,047 US outlets as of 12/31/2025 (1,043 franchised + 4 company-owned). The 15 pins below are FEATURED locations \u2014 real operational franchisees from FDD Exhibit A-1 \u2014 not a complete map of all outlets.",
- "hq_source": "FDD Item 1, p.1",
- "risk_score": 30,
- "risk_score_method": "base 20 +6 capital intensity (investment ceiling $165,846) +4 protected-but-non-exclusive territory with broad franchisor reserved rights (Item 12) +6 fee-burden stack (10% royalty, $650/mo base royalty, $1,500/mo minimum from month 24, $250+2% marketing, $1,000/mo digital/local marketing) +4 owner active participation required, no passive investment (Item 15) +2 renewal cost drag ($7,000 renewal fee) +2 new franchisor entity (Mathnasium Franchisor LLC organized July 2024; brand franchised since 2003) \u22126 Item 19 strength (914 centers, avg operating profit $117,000 / 30.4%, avg receipts $384,874, 13.3% YoY) \u22124 unit growth 2023\u20132025 (+93 outlets, +9.7%) \u22122 audited financial statements attached (Item 21) \u22122 PE backing (Roark Capital majority Nov 2021) = 30/100",
- "pins": [
-  {
-   "city": "Los Angeles",
-   "state": "CA",
-   "latitude": 34.0536909,
-   "longitude": -118.242766,
-   "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Los Angeles, CA; geocoded city centroid"
-  },
-  {
-   "city": "Phoenix",
-   "state": "AZ",
-   "latitude": 33.4484367,
-   "longitude": -112.074141,
-   "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Phoenix, AZ; geocoded city centroid"
-  },
-  {
-   "city": "Dallas",
-   "state": "TX",
-   "latitude": 32.7762719,
-   "longitude": -96.7968559,
-   "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Dallas, TX; geocoded city centroid"
-  },
-  {
-   "city": "Houston",
-   "state": "TX",
-   "latitude": 29.7589382,
-   "longitude": -95.3676974,
-   "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Houston, TX; geocoded city centroid"
-  },
-  {
-   "city": "Chicago",
-   "state": "IL",
-   "latitude": 41.8755616,
-   "longitude": -87.6244212,
-   "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Chicago, IL; geocoded city centroid"
-  },
-  {
-   "city": "Atlanta",
-   "state": "GA",
-   "latitude": 33.7544657,
-   "longitude": -84.3898151,
-   "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Atlanta, GA; geocoded city centroid"
-  },
-  {
-   "city": "Orlando",
-   "state": "FL",
-   "latitude": 28.5421218,
-   "longitude": -81.379045,
-   "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Orlando, FL; geocoded city centroid"
-  },
-  {
-   "city": "Denver",
-   "state": "CO",
-   "latitude": 39.7392364,
-   "longitude": -104.984862,
-   "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Denver, CO; geocoded city centroid"
-  },
-  {
-   "city": "New York",
-   "state": "NY",
-   "latitude": 40.7127281,
-   "longitude": -74.0060152,
-   "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in New York, NY; geocoded city centroid"
-  },
-  {
-   "city": "Philadelphia",
-   "state": "PA",
-   "latitude": 39.9527237,
-   "longitude": -75.1635262,
-   "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Philadelphia, PA; geocoded city centroid"
-  },
-  {
-   "city": "Minneapolis",
-   "state": "MN",
-   "latitude": 44.9772995,
-   "longitude": -93.2654692,
-   "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Minneapolis, MN; geocoded city centroid"
-  },
-  {
-   "city": "Charlotte",
-   "state": "NC",
-   "latitude": 35.2272086,
-   "longitude": -80.8430827,
-   "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Charlotte, NC; geocoded city centroid"
-  },
-  {
-   "city": "San Francisco",
-   "state": "CA",
-   "latitude": 37.7879363,
-   "longitude": -122.4075201,
-   "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in San Francisco, CA; geocoded city centroid"
-  },
-  {
-   "city": "Nashville",
-   "state": "TN",
-   "latitude": 36.1622767,
-   "longitude": -86.7742984,
-   "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Nashville, TN; geocoded city centroid"
-  },
-  {
-   "city": "Portland",
-   "state": "OR",
-   "latitude": 45.5202471,
-   "longitude": -122.674194,
-   "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Portland, OR; geocoded city centroid"
-  }
- ],
- "breakdown": {
-  "absolute_cited": 91,
-  "theoretical": 2,
-  "matching": 4,
-  "not_disclosed_verified": 2,
-  "total": 99
- },
- "fields": {
-  "franchisor_legal_name": {
-   "value": "Mathnasium Franchisor LLC",
-   "type": "absolute",
-   "item": "FDD cover; FDD Item 1, p.1",
-   "note": "cite: FDD cover; FDD Item 1, p.1"
-  },
-  "franchisor_entity_type": {
-   "value": "Delaware limited liability company",
-   "type": "absolute",
-   "item": "FDD cover; FDD Item 1, p.1",
-   "note": "cite: FDD cover; FDD Item 1, p.1"
-  },
-  "franchisor_formed_date": {
-   "value": "July 11, 2024",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1",
-   "note": "cite: FDD Item 1, p.1"
-  },
-  "corporate_address": {
-   "value": "5120 West Goldleaf Circle, Suite 400, Los Angeles, California 90056 USA",
-   "type": "absolute",
-   "item": "FDD cover; FDD Item 1, p.1",
-   "note": "cite: FDD cover; FDD Item 1, p.1"
-  },
-  "corporate_phone": {
-   "value": "(877) 531-MATH (6284)",
-   "type": "absolute",
-   "item": "FDD cover",
-   "note": "cite: FDD cover"
-  },
-  "corporate_email": {
-   "value": "legal@mathnasium.com",
-   "type": "absolute",
-   "item": "FDD cover",
-   "note": "cite: FDD cover"
-  },
-  "corporate_city": {
-   "value": "Los Angeles",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1",
-   "note": "cite: FDD Item 1, p.1"
-  },
-  "corporate_state": {
-   "value": "CA",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1",
-   "note": "cite: FDD Item 1, p.1"
-  },
-  "corporate_zip": {
-   "value": "90056",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1",
-   "note": "cite: FDD Item 1, p.1"
-  },
-  "dba_names": {
-   "value": "Mathnasium Learning Centers; Mathnasium Centers; Mathnasium The Math Learning Center; Mathnasium",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1",
-   "note": "cite: FDD Item 1, p.1"
-  },
-  "parent_chain": {
-   "value": "Mathnasium Funding LLC -> Mathnasium SPV Guarantor LLC -> Mathnasium Center Licensing, LLC (MCL) -> Mathnasium, LLC -> Mathnasium Intermediate, LLC -> Mathnasium Holdings, LLC (ultimate parent)",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1",
-   "note": "cite: FDD Item 1, p.1"
-  },
-  "pe_backing": {
-   "value": "RC VI Numbers Holdings, LLC (owned by Roark Capital Management, LLC, Atlanta-based private equity firm) acquired a majority interest in Mathnasium Holdings, LLC in November 2021",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1",
-   "note": "cite: FDD Item 1, p.1"
-  },
-  "predecessor": {
-   "value": "Mathnasium Center Licensing, LLC (MCL); offered Mathnasium franchises from late 2003 to August 2024; provides support/services under management agreement",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1",
-   "note": "cite: FDD Item 1, p.1"
-  },
-  "affiliate_canada": {
-   "value": "Mathnasium Center Licensing Canada, Inc.: 104 franchised Mathnasium Centers in Canada as of 12/31/2025",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1",
-   "note": "cite: FDD Item 1, p.1"
-  },
-  "affiliate_international": {
-   "value": "Mathnasium International Franchising, LLC: 108 franchised Mathnasium Centers outside the United States and Canada as of 12/31/2025",
-   "type": "absolute",
-   "item": "FDD Item 1, pp.1-2",
-   "note": "cite: FDD Item 1, pp.1-2"
-  },
-  "company_owned_us": {
-   "value": "4 Mathnasium Centers operated by indirect parent Mathnasium LLC as of 12/31/2025",
-   "type": "absolute",
-   "item": "FDD Item 1, p.2; FDD Item 20 Table 1, p.58",
-   "note": "cite: FDD Item 1, p.2; FDD Item 20 Table 1, p.58"
-  },
-  "securitization_transaction": {
-   "value": "August 2024 restructuring: Mathnasium Franchisor LLC became franchisor of all US Mathnasium franchise/development agreements; trademarks transferred to franchisor",
-   "type": "absolute",
-   "item": "FDD Item 1, p.2",
-   "note": "cite: FDD Item 1, p.2"
-  },
-  "brand_founded_year": {
-   "value": "2003",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1 (franchise system offered since late 2003)",
-   "note": "cite: FDD Item 1, p.1 (franchise system offered since late 2003)"
-  },
-  "year_franchising_began_current_entity": {
-   "value": "2024",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1 (Mathnasium Franchisor LLC began offering franchises September 2024)",
-   "note": "cite: FDD Item 1, p.1 (Mathnasium Franchisor LLC began offering franchises September 2024)"
-  },
-  "business_description": {
-   "value": "Learning centers providing math instruction using the Mathnasium education method; open to the public at least 5 days/week during after-school hours at least 4 hours/day; children typically attend twice a week ~60 minutes per session",
-   "type": "absolute",
-   "item": "FDD Item 1, p.2; FDD cover",
-   "note": "cite: FDD Item 1, p.2; FDD cover"
-  },
-  "fdd_issue_date": {
-   "value": "April 30, 2026",
-   "type": "absolute",
-   "item": "FDD cover",
-   "note": "cite: FDD cover"
-  },
-  "agents_for_service": {
-   "value": "listed in FDD Exhibit E",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1",
-   "note": "cite: FDD Item 1, p.1"
-  },
-  "litigation_direct": {
-   "value": "None required to be disclosed against Mathnasium itself",
-   "type": "absolute",
-   "item": "FDD Item 3, p.14 ('Except for the matters above, no litigation is required to be disclosed in this Item')",
-   "note": "cite: FDD Item 3, p.14 ('Except for the matters above, no litigation is required to be disclosed in this Item')"
-  },
-  "litigation_affiliate_1": {
-   "value": "Arby's Restaurant Group, Inc. (Roark affiliate): 2019 no-poach settlement with 11 state AGs (CA Superior Court 19STCV09397); no money paid; injunctive settlement",
-   "type": "absolute",
-   "item": "FDD Item 3, p.13",
-   "note": "cite: FDD Item 3, p.13"
-  },
-  "litigation_affiliate_2": {
-   "value": "Dunkin' Brands, Inc. (Roark affiliate): 2019 no-poach settlement with 13 states/jurisdictions (CA Superior Court 19STCV09597); injunctive settlement",
-   "type": "absolute",
-   "item": "FDD Item 3, pp.13-14",
-   "note": "cite: FDD Item 3, pp.13-14"
-  },
-  "litigation_affiliate_3": {
-   "value": "Dunkin' Brands, Inc. (Roark affiliate): NYAG credential-stuffing suit 2019 (N.Y. Sup. Ct. 451787/2019); $650,000 consent settlement 2020; info-security program through Sept 2026",
-   "type": "absolute",
-   "item": "FDD Item 3, p.14",
-   "note": "cite: FDD Item 3, p.14"
-  },
-  "litigation_affiliate_4": {
-   "value": "Jimmy John's Franchisor SPV LLC (Roark affiliate): Maryland Securities Commissioner Case No. 2025-0122; $30,000 civil penalty consent order June 9, 2025 re FDD former-franchisee contact omission",
-   "type": "absolute",
-   "item": "FDD Item 3, p.14",
-   "note": "cite: FDD Item 3, p.14"
-  },
-  "litigation_pending_count_direct": {
-   "value": 0,
-   "type": "absolute",
-   "item": "FDD Item 3, p.14",
-   "note": "cite: FDD Item 3, p.14"
-  },
-  "bankruptcy_disclosed": {
-   "value": "None required to be disclosed",
-   "type": "absolute",
-   "item": "FDD Item 4, p.14",
-   "note": "cite: FDD Item 4, p.14"
-  },
-  "initial_franchise_fee": {
-   "value": 49000,
-   "type": "absolute",
-   "item": "FDD Item 5, p.15",
-   "note": "cite: FDD Item 5, p.15"
-  },
-  "franchise_fee_refundable": {
-   "value": "Fully earned once paid; refundable only (less marketing/awarding/training costs) if franchisor withdraws approval during or after initial training",
-   "type": "absolute",
-   "item": "FDD Item 5, p.15",
-   "note": "cite: FDD Item 5, p.15"
-  },
-  "additional_franchise_fee": {
-   "value": 26500,
-   "type": "absolute",
-   "item": "FDD Item 5, p.16",
-   "note": "cite: FDD Item 5, p.16"
-  },
-  "transfer_initial_fee": {
-   "value": 7000,
-   "type": "absolute",
-   "item": "FDD Item 5, p.16 (transferee signing Franchise Agreement in conjunction with transfer; waivable for existing franchisees acquiring low-revenue centers)",
-   "note": "cite: FDD Item 5, p.16 (transferee signing Franchise Agreement in conjunction with transfer; waivable for existing franchisees acquiring low-revenue centers)"
-  },
-  "development_fee_range": {
-   "value": "$75,500 to $129,000 for 2-5 centers ($63,250-$116,750 with veteran/educator discount)",
-   "type": "absolute",
-   "item": "FDD Item 5, p.16",
-   "note": "cite: FDD Item 5, p.16"
-  },
-  "tech_fee_preopen": {
-   "value": "$266/month beginning first full month after signing; $266-$1,596 anticipated before opening",
-   "type": "absolute",
-   "item": "FDD Item 5, p.15",
-   "note": "cite: FDD Item 5, p.15"
-  },
-  "digital_local_preopen_fee": {
-   "value": "$1,000/month beginning 2 months before anticipated opening; $2,000 anticipated pre-open; credited against $5,500 pre-opening advertising obligation",
-   "type": "absolute",
-   "item": "FDD Item 5, p.15",
-   "note": "cite: FDD Item 5, p.15"
-  },
-  "veteran_discount": {
-   "value": "25% off initial franchise fee (VetFran, qualifying veterans/active-duty)",
-   "type": "absolute",
-   "item": "FDD Item 5, p.16",
-   "note": "cite: FDD Item 5, p.16"
-  },
-  "educator_discount": {
-   "value": "25% off initial franchise fee (credentialed teachers/administrators, education-degree graduates per eligibility rules)",
-   "type": "absolute",
-   "item": "FDD Item 5, p.16",
-   "note": "cite: FDD Item 5, p.16"
-  },
-  "amount_to_franchisor_first": {
-   "value": "$51,266 to $52,596",
-   "type": "absolute",
-   "item": "FDD cover",
-   "note": "cite: FDD cover"
-  },
-  "initial_fee_range_paid_2025": {
-   "value": "$0 to $49,000",
-   "type": "absolute",
-   "item": "FDD Item 5, p.16",
-   "note": "cite: FDD Item 5, p.16"
-  },
-  "royalty_terms": {
-   "value": "10% of monthly Gross Receipts; from the 24th month of operation, the greater of 10% or $1,500/month",
-   "type": "absolute",
-   "item": "FDD Item 6, p.17",
-   "note": "cite: FDD Item 6, p.17"
-  },
-  "base_royalty": {
-   "value": "$650/month beginning 6 months after signing (first Center); franchisees currently pay a single base royalty across all centers operated",
-   "type": "absolute",
-   "item": "FDD Item 6, p.17",
-   "note": "cite: FDD Item 6, p.17"
-  },
-  "marketing_fund_fee": {
-   "value": "$250/month plus 2% of monthly Gross Receipts",
-   "type": "absolute",
-   "item": "FDD Item 6, p.17",
-   "note": "cite: FDD Item 6, p.17"
-  },
-  "digital_local_marketing_fee": {
-   "value": "Minimum $1,000/month, credited against local marketing spend",
-   "type": "absolute",
-   "item": "FDD Item 6, p.17",
-   "note": "cite: FDD Item 6, p.17"
-  },
-  "technology_license_fee": {
-   "value": "$266/month per Mathnasium Center",
-   "type": "absolute",
-   "item": "FDD Item 6, p.17",
-   "note": "cite: FDD Item 6, p.17"
-  },
-  "annual_convention_fee": {
-   "value": "$550 per attendee (generally May)",
-   "type": "absolute",
-   "item": "FDD Item 6, p.17",
-   "note": "cite: FDD Item 6, p.17"
-  },
-  "late_fee": {
-   "value": "$250 plus $100 every 2 weeks until paid",
-   "type": "absolute",
-   "item": "FDD Item 6, p.17",
-   "note": "cite: FDD Item 6, p.17"
-  },
-  "late_interest": {
-   "value": "10% per annum or highest permitted rate",
-   "type": "absolute",
-   "item": "FDD Item 6, p.18",
-   "note": "cite: FDD Item 6, p.18"
-  },
-  "transfer_fee": {
-   "value": 7000,
-   "type": "absolute",
-   "item": "FDD Item 6, p.18",
-   "note": "cite: FDD Item 6, p.18"
-  },
-  "transferee_training_fee": {
-   "value": "$3,000 (up to 2 people, transferee of existing operating center)",
-   "type": "absolute",
-   "item": "FDD Item 6, p.18",
-   "note": "cite: FDD Item 6, p.18"
-  },
-  "renewal_fee": {
-   "value": "$7,000, payable lump sum or 14 monthly installments of $500",
-   "type": "absolute",
-   "item": "FDD Item 6, p.18",
-   "note": "cite: FDD Item 6, p.18"
-  },
-  "training_additional_trainee": {
-   "value": "$1,000 per person beyond 2 initial trainees",
-   "type": "absolute",
-   "item": "FDD Item 6, p.18",
-   "note": "cite: FDD Item 6, p.18"
-  },
-  "noncompliance_fine": {
-   "value": "$300/month per non-complying incident",
-   "type": "absolute",
-   "item": "FDD Item 6, p.18",
-   "note": "cite: FDD Item 6, p.18"
-  },
-  "fee_increase_rule": {
-   "value": "Fixed-dollar fees may increase annually by greater of 3.0% or CPI-Service Group; no CPI adjustment to percentage royalty (10%) or marketing (2%)",
-   "type": "absolute",
-   "item": "FDD Item 6, pp.18-19",
-   "note": "cite: FDD Item 6, pp.18-19"
-  },
-  "royalty_rebate_acquisition": {
-   "value": "100% monthly royalty rebate up to $1,500/mo ($13,500 max) for 9 months when existing franchisee acquires center with <=$176,306 trailing gross receipts; tiered rebate to $278,021; annual policy review",
-   "type": "absolute",
-   "item": "FDD Item 6, p.19",
-   "note": "cite: FDD Item 6, p.19"
-  },
-  "total_investment_first": {
-   "value": "$127,316 to $165,846",
-   "type": "absolute",
-   "item": "FDD Item 7, p.22",
-   "note": "cite: FDD Item 7, p.22"
-  },
-  "total_investment_additional": {
-   "value": "$104,816 to $143,346",
-   "type": "absolute",
-   "item": "FDD Item 7, p.22",
-   "note": "cite: FDD Item 7, p.22"
-  },
-  "total_investment_development": {
-   "value": "$153,816 to $245,846 (2-5 centers)",
-   "type": "absolute",
-   "item": "FDD cover",
-   "note": "cite: FDD cover"
-  },
-  "additional_funds_4mo": {
-   "value": "$35,000 to $45,000 (first 4 months)",
-   "type": "absolute",
-   "item": "FDD Item 7, p.23",
-   "note": "cite: FDD Item 7, p.23"
-  },
-  "territory_model": {
-   "value": "Designated territory with protective rights; NOT exclusive \u2014 franchisor reserves broad rights (other channels, schools/distance learning, company centers outside territory, competing systems)",
-   "type": "absolute",
-   "item": "FDD Item 12, p.38",
-   "note": "cite: FDD Item 12, p.38"
-  },
-  "territory_size_rule": {
-   "value": "Territory believed to contain at least 2,500 children ages 5-19 at signing",
-   "type": "absolute",
-   "item": "FDD Item 12, p.38",
-   "note": "cite: FDD Item 12, p.38"
-  },
-  "territory_reconfiguration": {
-   "value": "Franchisor may reconfigure boundaries (target-market fit, relocation, boundary/demographic changes, manual-specified events)",
-   "type": "absolute",
-   "item": "FDD Item 12, p.38",
-   "note": "cite: FDD Item 12, p.38"
-  },
-  "location_restriction": {
-   "value": "Center must be inside territory; no teaching outside accepted location (incl. students' homes) without annual-renewal written approval; relocation only within territory with consent",
-   "type": "absolute",
-   "item": "FDD Item 12, p.38",
-   "note": "cite: FDD Item 12, p.38"
-  },
-  "owner_participation": {
-   "value": "Owner must personally participate and devote sufficient time; passive investment not sought; Center Director required (full-time during business hours); >=2 adults present when children in Center",
-   "type": "absolute",
-   "item": "FDD Item 15, p.44",
-   "note": "cite: FDD Item 15, p.44"
-  },
-  "owner_guarantee": {
-   "value": "All entity owners must personally guarantee franchise obligations",
-   "type": "absolute",
-   "item": "FDD Item 15, p.44",
-   "note": "cite: FDD Item 15, p.44"
-  },
-  "franchise_term_years": {
-   "value": 5,
-   "type": "absolute",
-   "item": "FDD Item 17, p.46",
-   "note": "cite: FDD Item 17, p.46"
-  },
-  "renewal_terms": {
-   "value": "Successor franchise agreements for additional 5-year terms if in good standing; renewal fee $7,000",
-   "type": "absolute",
-   "item": "FDD Item 17, p.46",
-   "note": "cite: FDD Item 17, p.46"
-  },
-  "dispute_resolution": {
-   "value": "Mediation/arbitration/litigation in Los Angeles County, California (state-required special-risk disclosure)",
-   "type": "absolute",
-   "item": "FDD p.iv (Special Risks)",
-   "note": "cite: FDD p.iv (Special Risks)"
-  },
-  "minimum_sales_performance": {
-   "value": "Minimum sales performance levels required; failure may cause loss of territorial rights, termination, loss of investment",
-   "type": "absolute",
-   "item": "FDD p.iv (Special Risks)",
-   "note": "cite: FDD p.iv (Special Risks)"
-  },
-  "mandatory_minimum_payments": {
-   "value": "Royalty payments owed regardless of sales levels",
-   "type": "absolute",
-   "item": "FDD p.iv (Special Risks)",
-   "note": "cite: FDD p.iv (Special Risks)"
-  },
-  "item19_scope": {
-   "value": "2025 Gross Receipts + P&L of 914 franchised US centers open and operated by same franchisee >=12 months (129 excluded; 4 company centers excluded); data tables presented as embedded images",
-   "type": "absolute",
-   "item": "FDD Item 19, pp.53-56",
-   "note": "cite: FDD Item 19, pp.53-56"
-  },
-  "item19_avg_gross_receipts": {
-   "value": 384874,
-   "type": "absolute",
-   "item": "FDD Item 19, Table 1 (embedded image, printed p.53)",
-   "note": "cite: FDD Item 19, Table 1 (embedded image, printed p.53)"
-  },
-  "item19_median_gross_receipts": {
-   "value": 326428,
-   "type": "absolute",
-   "item": "FDD Item 19, Table 1 (embedded image, printed p.53)",
-   "note": "cite: FDD Item 19, Table 1 (embedded image, printed p.53)"
-  },
-  "item19_avg_yoy_growth": {
-   "value": "13.3%",
-   "type": "absolute",
-   "item": "FDD Item 19, Table 1 (embedded image, printed p.53)",
-   "note": "cite: FDD Item 19, Table 1 (embedded image, printed p.53)"
-  },
-  "item19_top_quartile_avg": {
-   "value": 693314,
-   "type": "absolute",
-   "item": "FDD Item 19, Table 1 (embedded image, printed p.53)",
-   "note": "cite: FDD Item 19, Table 1 (embedded image, printed p.53)"
-  },
-  "item19_bottom_quartile_avg": {
-   "value": 176306,
-   "type": "absolute",
-   "item": "FDD Item 19, Table 1 (embedded image, printed p.53)",
-   "note": "cite: FDD Item 19, Table 1 (embedded image, printed p.53)"
-  },
-  "item19_met_exceeded_avg": {
-   "value": "355 of 914 (39%)",
-   "type": "absolute",
-   "item": "FDD Item 19, Table 1 (embedded image, printed p.53)",
-   "note": "cite: FDD Item 19, Table 1 (embedded image, printed p.53)"
-  },
-  "item19_avg_operating_profit": {
-   "value": 117000,
-   "type": "absolute",
-   "item": "FDD Item 19, Table 2 (embedded image, printed p.54)",
-   "note": "cite: FDD Item 19, Table 2 (embedded image, printed p.54)"
-  },
-  "item19_avg_operating_profit_pct": {
-   "value": "30.4% of reported gross receipts",
-   "type": "absolute",
-   "item": "FDD Item 19, Table 2 (embedded image, printed p.54)",
-   "note": "cite: FDD Item 19, Table 2 (embedded image, printed p.54)"
-  },
-  "item19_median_operating_profit": {
-   "value": 111630,
-   "type": "absolute",
-   "item": "FDD Item 19, Table 2 (embedded image, printed p.54)",
-   "note": "cite: FDD Item 19, Table 2 (embedded image, printed p.54)"
-  },
-  "item19_avg_instructor_payroll": {
-   "value": 79182,
-   "type": "absolute",
-   "item": "FDD Item 19, Table 2 (embedded image, printed p.54)",
-   "note": "cite: FDD Item 19, Table 2 (embedded image, printed p.54)"
-  },
-  "item19_avg_rent": {
-   "value": 49098,
-   "type": "absolute",
-   "item": "FDD Item 19, Table 2 (embedded image, printed p.54)",
-   "note": "cite: FDD Item 19, Table 2 (embedded image, printed p.54)"
-  },
-  "item19_avg_royalties_marketing": {
-   "value": 66883,
-   "type": "absolute",
-   "item": "FDD Item 19, Table 2 (embedded image, printed p.54)",
-   "note": "cite: FDD Item 19, Table 2 (embedded image, printed p.54)"
-  },
-  "outlets_franchised_2025": {
-   "value": 1043,
-   "type": "absolute",
-   "item": "FDD Item 20 Table 1, p.58",
-   "note": "cite: FDD Item 20 Table 1, p.58"
-  },
-  "outlets_company_2025": {
-   "value": 4,
-   "type": "absolute",
-   "item": "FDD Item 20 Table 1, p.58",
-   "note": "cite: FDD Item 20 Table 1, p.58"
-  },
-  "outlets_total_us_2025": {
-   "value": 1047,
-   "type": "absolute",
-   "item": "FDD Item 20 Table 1, p.58",
-   "note": "cite: FDD Item 20 Table 1, p.58"
-  },
-  "outlets_total_us_2023": {
-   "value": 972,
-   "type": "absolute",
-   "item": "FDD Item 20 Table 1, p.58",
-   "note": "cite: FDD Item 20 Table 1, p.58"
-  },
-  "outlets_total_us_2024": {
-   "value": 999,
-   "type": "absolute",
-   "item": "FDD Item 20 Table 1, p.58",
-   "note": "cite: FDD Item 20 Table 1, p.58"
-  },
-  "net_outlet_change_2023_2025": {
-   "value": "+93 (+9.7%)",
-   "type": "absolute",
-   "item": "FDD Item 20 Table 1, p.58",
-   "note": "cite: FDD Item 20 Table 1, p.58"
-  },
-  "franchisee_list_source": {
-   "value": "FDD Exhibit A-1: 922 outlet rows parsed (unique city/state: 756); full list with city/state/zip/phone as of 12/31/2025",
-   "type": "absolute",
-   "item": "FDD Exhibit A-1",
-   "note": "cite: FDD Exhibit A-1"
-  },
-  "net_worth_requirement": {
-   "value": "not disclosed in FDD",
-   "type": "not_disclosed_verified",
-   "item": "FDD full-text grep: 0 hits for 'net worth' (netWorthRequirement)",
-   "note": "cite: FDD full-text grep: 0 hits for 'net worth' (netWorthRequirement)"
-  },
-  "liquid_capital_requirement": {
-   "value": "not disclosed in FDD",
-   "type": "not_disclosed_verified",
-   "item": "FDD full-text grep: 0 hits for 'liquid capital' (liquidCapitalRequirement)",
-   "note": "cite: FDD full-text grep: 0 hits for 'liquid capital' (liquidCapitalRequirement)"
-  },
-  "financial_statements": {
-   "value": "Audited financial statements for fiscal year ending 12/31/2025 and period from July 11, 2024 (Exhibit C)",
-   "type": "absolute",
-   "item": "FDD Item 21, p.66; FDD Exhibit C",
-   "note": "cite: FDD Item 21, p.66; FDD Exhibit C"
-  },
-  "risk_score": {
-   "value": 30,
-   "type": "theoretical",
-   "item": "base 20 +6 capital intensity (investment ceiling $165,846) +4 protected-but-non-exclusive territory with broad franchisor reserved rights (Item 12) +6 fee-burden stack (10% royalty, $650/mo base royalty, $1,500/mo minimum from month 24, $250+2% marketing, $1,000/mo digital/local marketing) +4 owner active participation required, no passive investment (Item 15) +2 renewal cost drag ($7,000 renewal fee) +2 new franchisor entity (Mathnasium Franchisor LLC organized July 2024; brand franchised since 2003) -6 Item 19 strength (914 centers, avg operating profit $117,000 / 30.4%, avg receipts $384,874, 13.3% YoY) -4 unit growth 2023-2025 (+93 outlets, +9.7%) -2 audited financial statements attached (Item 21) -2 PE backing (Roark Capital majority Nov 2021) = 30/100",
-   "note": "THEORETICAL \u2014 base 20 +6 capital intensity (investment ceiling $165,846) +4 protected-but-non-exclusive territory with broad franchisor reserved rights (Item 12) +6 fee-burden stack (10% royalty, $650/mo base royalty, $1,500/mo minimum from month 24, $250+2% marketing, $1,000/mo digital/local marketing) +4 owner active participation required, no passive investment (Item 15) +2 renewal cost drag ($7,000 renewal fee) +2 new franchisor entity (Mathnasium Franchisor LLC organized July 2024; brand franchised since 2003) -6 Item 19 strength (914 centers, avg operating profit $117,000 / 30.4%, avg receipts $384,874, 13.3% YoY) -4 unit growth 2023-2025 (+93 outlets, +9.7%) -2 audited financial statements attached (Item 21) -2 PE backing (Roark Capital majority Nov 2021) = 30/100"
-  },
-  "litigation_risk_flag": {
-   "value": "LOW",
-   "type": "theoretical",
-   "item": "Item 3 discloses no Mathnasium-direct litigation; matters are Roark-affiliate settlements with no impact on the brand per FDD",
-   "note": "THEORETICAL \u2014 Item 3 discloses no Mathnasium-direct litigation; matters are Roark-affiliate settlements with no impact on the brand per FDD"
-  },
-  "match_risk_appetite": {
-   "value": "Moderate-low: ~$127K-$166K capital commitment, 10%+ fee burden with minimums, active owner required; offset by strong Item 19 margins and steady growth",
-   "type": "matching",
-   "item": "risk inputs: Items 3, 5, 6, 7, 12, 15, 19",
-   "note": "MATCHING \u2014 risk inputs: Items 3, 5, 6, 7, 12, 15, 19"
-  },
-  "match_investor_profile": {
-   "value": "Owner-operators with education-service interest; not passive investors",
-   "type": "matching",
-   "item": "Items 1, 15",
-   "note": "MATCHING \u2014 Items 1, 15"
-  },
-  "match_sector": {
-   "value": "Education / Tutoring",
-   "type": "matching",
-   "item": "business description",
-   "note": "MATCHING \u2014 business description"
-  },
-  "category_guess": {
-   "value": "Education",
-   "type": "matching",
-   "item": "FDD Item 1",
-   "note": "MATCHING \u2014 FDD Item 1"
-  }
- },
- "extractor": "mathnasium-build",
- "extraction_timestamp_utc": "2026-09-14T17:39:18.442918+00:00",
- "fdd_filename": "mathnasium.pdf",
- "fdd_sha256": "771fb8f9c520f5b0c9403f346a8ff2c8ad6e1fd40eefbafeafb0905d07e8890f",
- "live_url": "https://bennett-maxwell.github.io/mathnasium/",
- "netWorthRequirement": "not disclosed in FDD",
- "netWorthRequirementNote": "FDD full-text grep: 0 hits for 'net worth' \u2014 genuinely undisclosed (three-state: not_disclosed_verified)",
- "liquidCapitalRequirement": "not disclosed in FDD",
- "liquidCapitalRequirementNote": "FDD full-text grep: 0 hits for 'liquid capital' \u2014 genuinely undisclosed (three-state: not_disclosed_verified)",
- "pinVerification": {
-  "method": "D4-08 per-pin geocode re-run (independent forward geocode of each labeled city/state; haversine vs plotted coordinate, 50 km tolerance)",
-  "run_utc": "2026-09-14T17:37:00.507616+00:00",
-  "passed": 15,
-  "total": 15
- },
- "pinsUpdatedAt": "2026-09-14T17:37:00.507616+00:00"
+  "slug": "mathnasium",
+  "brand": "Mathnasium",
+  "field_count": 99,
+  "franchiseFee": 49000,
+  "totalInvestmentMin": 127316,
+  "totalInvestmentMax": 165846,
+  "royaltyPercent": "10%",
+  "adFee": "2%",
+  "totalUnits": 1047,
+  "openLocations": 1047,
+  "corporateCity": "Los Angeles",
+  "corporateState": "CA",
+  "corporateZip": "90056",
+  "corporateAddress": "5120 West Goldleaf Circle, Suite 400, Los Angeles, CA 90056",
+  "description": "Mathnasium is a math-only learning-center franchise: children attend centers typically twice a week for ~60-minute sessions using the Mathnasium education method. The franchisor, Mathnasium Franchisor LLC of Los Angeles, California (a Delaware LLC organized July 2024, majority owned via Roark Capital since 2021), began offering franchises in September 2024; the brand has been franchised since 2003. Per the 2026 FDD, the franchise fee is $49,000, total initial investment ranges from $127,316 to $165,846, royalties are 10% of gross receipts ($650/mo base royalty; $1,500/mo minimum from month 24) plus $250+2% marketing and $1,000/mo digital/local marketing, and territories are designated with protective rights but not exclusive. Item 19 (2025): 914 reporting centers averaged $384,874 in gross receipts with average operating profit of $117,000 (30.4%). The US system grew from 972 outlets at end-2023 to 1,047 at end-2025.",
+  "category": "Education",
+  "websiteUrl": "https://www.mathnasium.com",
+  "logoUrl": "https://www.mathnasium.com/themes/mathnasium/assets/images/favicon.ico",
+  "yearFounded": 2003,
+  "fddYear": 2026,
+  "territoryDescription": "Designated territory with protective rights but NOT exclusive: at least 2,500 children ages 5-19 at signing; franchisor reserves broad rights (other channels, schools/distance learning, company centers outside territory, competing systems); boundaries may be reconfigured; center must sit inside the territory.",
+  "item12": "protected",
+  "item12_detail": "designated territory with protective rights but NOT exclusive (Item 12, p.38)",
+  "item20PinCount": 15,
+  "item20_fdd_count": 1047,
+  "item20_reconciliation": "FDD Item 20 Table No. 1 (p.58): 1,047 US outlets as of 12/31/2025 (1,043 franchised + 4 company-owned). The 15 pins below are FEATURED locations \u2014 real operational franchisees from FDD Exhibit A-1 \u2014 not a complete map of all outlets.",
+  "hq_source": "FDD Item 1, p.1",
+  "risk_score": 30,
+  "risk_score_method": "base 20 +6 capital intensity (investment ceiling $165,846) +4 protected-but-non-exclusive territory with broad franchisor reserved rights (Item 12) +6 fee-burden stack (10% royalty, $650/mo base royalty, $1,500/mo minimum from month 24, $250+2% marketing, $1,000/mo digital/local marketing) +4 owner active participation required, no passive investment (Item 15) +2 renewal cost drag ($7,000 renewal fee) +2 new franchisor entity (Mathnasium Franchisor LLC organized July 2024; brand franchised since 2003) \u22126 Item 19 strength (914 centers, avg operating profit $117,000 / 30.4%, avg receipts $384,874, 13.3% YoY) \u22124 unit growth 2023\u20132025 (+93 outlets, +9.7%) \u22122 audited financial statements attached (Item 21) \u22122 PE backing (Roark Capital majority Nov 2021) = 30/100",
+  "pins": [
+    {
+      "city": "Los Angeles",
+      "state": "CA",
+      "latitude": 34.0536909,
+      "longitude": -118.242766,
+      "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Los Angeles, CA; geocoded city centroid"
+    },
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "latitude": 33.4484367,
+      "longitude": -112.074141,
+      "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Phoenix, AZ; geocoded city centroid"
+    },
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "latitude": 32.7762719,
+      "longitude": -96.7968559,
+      "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Dallas, TX; geocoded city centroid"
+    },
+    {
+      "city": "Houston",
+      "state": "TX",
+      "latitude": 29.7589382,
+      "longitude": -95.3676974,
+      "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Houston, TX; geocoded city centroid"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "latitude": 41.8755616,
+      "longitude": -87.6244212,
+      "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Chicago, IL; geocoded city centroid"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
+      "latitude": 33.7544657,
+      "longitude": -84.3898151,
+      "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Atlanta, GA; geocoded city centroid"
+    },
+    {
+      "city": "Orlando",
+      "state": "FL",
+      "latitude": 28.5421218,
+      "longitude": -81.379045,
+      "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Orlando, FL; geocoded city centroid"
+    },
+    {
+      "city": "Denver",
+      "state": "CO",
+      "latitude": 39.7392364,
+      "longitude": -104.984862,
+      "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Denver, CO; geocoded city centroid"
+    },
+    {
+      "city": "New York",
+      "state": "NY",
+      "latitude": 40.7127281,
+      "longitude": -74.0060152,
+      "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in New York, NY; geocoded city centroid"
+    },
+    {
+      "city": "Philadelphia",
+      "state": "PA",
+      "latitude": 39.9527237,
+      "longitude": -75.1635262,
+      "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Philadelphia, PA; geocoded city centroid"
+    },
+    {
+      "city": "Minneapolis",
+      "state": "MN",
+      "latitude": 44.9772995,
+      "longitude": -93.2654692,
+      "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Minneapolis, MN; geocoded city centroid"
+    },
+    {
+      "city": "Charlotte",
+      "state": "NC",
+      "latitude": 35.2272086,
+      "longitude": -80.8430827,
+      "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Charlotte, NC; geocoded city centroid"
+    },
+    {
+      "city": "San Francisco",
+      "state": "CA",
+      "latitude": 37.7879363,
+      "longitude": -122.4075201,
+      "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in San Francisco, CA; geocoded city centroid"
+    },
+    {
+      "city": "Nashville",
+      "state": "TN",
+      "latitude": 36.1622767,
+      "longitude": -86.7742984,
+      "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Nashville, TN; geocoded city centroid"
+    },
+    {
+      "city": "Portland",
+      "state": "OR",
+      "latitude": 45.5202471,
+      "longitude": -122.674194,
+      "pin_source": "FDD Exhibit A-1 (printed pp.A-1-x): operational franchisee in Portland, OR; geocoded city centroid"
+    }
+  ],
+  "breakdown": {
+    "absolute_cited": 91,
+    "theoretical": 2,
+    "matching": 4,
+    "not_disclosed_verified": 2,
+    "total": 99
+  },
+  "fields": {
+    "franchisor_legal_name": {
+      "value": "Mathnasium Franchisor LLC",
+      "type": "absolute",
+      "item": "FDD cover; FDD Item 1, p.1",
+      "note": "cite: FDD cover; FDD Item 1, p.1"
+    },
+    "franchisor_entity_type": {
+      "value": "Delaware limited liability company",
+      "type": "absolute",
+      "item": "FDD cover; FDD Item 1, p.1",
+      "note": "cite: FDD cover; FDD Item 1, p.1"
+    },
+    "franchisor_formed_date": {
+      "value": "July 11, 2024",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1",
+      "note": "cite: FDD Item 1, p.1"
+    },
+    "corporate_address": {
+      "value": "5120 West Goldleaf Circle, Suite 400, Los Angeles, California 90056 USA",
+      "type": "absolute",
+      "item": "FDD cover; FDD Item 1, p.1",
+      "note": "cite: FDD cover; FDD Item 1, p.1"
+    },
+    "corporate_phone": {
+      "value": "(877) 531-MATH (6284)",
+      "type": "absolute",
+      "item": "FDD cover",
+      "note": "cite: FDD cover"
+    },
+    "corporate_email": {
+      "value": "legal@mathnasium.com",
+      "type": "absolute",
+      "item": "FDD cover",
+      "note": "cite: FDD cover"
+    },
+    "corporate_city": {
+      "value": "Los Angeles",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1",
+      "note": "cite: FDD Item 1, p.1"
+    },
+    "corporate_state": {
+      "value": "CA",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1",
+      "note": "cite: FDD Item 1, p.1"
+    },
+    "corporate_zip": {
+      "value": "90056",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1",
+      "note": "cite: FDD Item 1, p.1"
+    },
+    "dba_names": {
+      "value": "Mathnasium Learning Centers; Mathnasium Centers; Mathnasium The Math Learning Center; Mathnasium",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1",
+      "note": "cite: FDD Item 1, p.1"
+    },
+    "parent_chain": {
+      "value": "Mathnasium Funding LLC -> Mathnasium SPV Guarantor LLC -> Mathnasium Center Licensing, LLC (MCL) -> Mathnasium, LLC -> Mathnasium Intermediate, LLC -> Mathnasium Holdings, LLC (ultimate parent)",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1",
+      "note": "cite: FDD Item 1, p.1"
+    },
+    "pe_backing": {
+      "value": "RC VI Numbers Holdings, LLC (owned by Roark Capital Management, LLC, Atlanta-based private equity firm) acquired a majority interest in Mathnasium Holdings, LLC in November 2021",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1",
+      "note": "cite: FDD Item 1, p.1"
+    },
+    "predecessor": {
+      "value": "Mathnasium Center Licensing, LLC (MCL); offered Mathnasium franchises from late 2003 to August 2024; provides support/services under management agreement",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1",
+      "note": "cite: FDD Item 1, p.1"
+    },
+    "affiliate_canada": {
+      "value": "Mathnasium Center Licensing Canada, Inc.: 104 franchised Mathnasium Centers in Canada as of 12/31/2025",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1",
+      "note": "cite: FDD Item 1, p.1"
+    },
+    "affiliate_international": {
+      "value": "Mathnasium International Franchising, LLC: 108 franchised Mathnasium Centers outside the United States and Canada as of 12/31/2025",
+      "type": "absolute",
+      "item": "FDD Item 1, pp.1-2",
+      "note": "cite: FDD Item 1, pp.1-2"
+    },
+    "company_owned_us": {
+      "value": "4 Mathnasium Centers operated by indirect parent Mathnasium LLC as of 12/31/2025",
+      "type": "absolute",
+      "item": "FDD Item 1, p.2; FDD Item 20 Table 1, p.58",
+      "note": "cite: FDD Item 1, p.2; FDD Item 20 Table 1, p.58"
+    },
+    "securitization_transaction": {
+      "value": "August 2024 restructuring: Mathnasium Franchisor LLC became franchisor of all US Mathnasium franchise/development agreements; trademarks transferred to franchisor",
+      "type": "absolute",
+      "item": "FDD Item 1, p.2",
+      "note": "cite: FDD Item 1, p.2"
+    },
+    "brand_founded_year": {
+      "value": "2003",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 (franchise system offered since late 2003)",
+      "note": "cite: FDD Item 1, p.1 (franchise system offered since late 2003)"
+    },
+    "year_franchising_began_current_entity": {
+      "value": "2024",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 (Mathnasium Franchisor LLC began offering franchises September 2024)",
+      "note": "cite: FDD Item 1, p.1 (Mathnasium Franchisor LLC began offering franchises September 2024)"
+    },
+    "business_description": {
+      "value": "Learning centers providing math instruction using the Mathnasium education method; open to the public at least 5 days/week during after-school hours at least 4 hours/day; children typically attend twice a week ~60 minutes per session",
+      "type": "absolute",
+      "item": "FDD Item 1, p.2; FDD cover",
+      "note": "cite: FDD Item 1, p.2; FDD cover"
+    },
+    "fdd_issue_date": {
+      "value": "April 30, 2026",
+      "type": "absolute",
+      "item": "FDD cover",
+      "note": "cite: FDD cover"
+    },
+    "agents_for_service": {
+      "value": "listed in FDD Exhibit E",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1",
+      "note": "cite: FDD Item 1, p.1"
+    },
+    "litigation_direct": {
+      "value": "None required to be disclosed against Mathnasium itself",
+      "type": "absolute",
+      "item": "FDD Item 3, p.14 ('Except for the matters above, no litigation is required to be disclosed in this Item')",
+      "note": "cite: FDD Item 3, p.14 ('Except for the matters above, no litigation is required to be disclosed in this Item')"
+    },
+    "litigation_affiliate_1": {
+      "value": "Arby's Restaurant Group, Inc. (Roark affiliate): 2019 no-poach settlement with 11 state AGs (CA Superior Court 19STCV09397); no money paid; injunctive settlement",
+      "type": "absolute",
+      "item": "FDD Item 3, p.13",
+      "note": "cite: FDD Item 3, p.13"
+    },
+    "litigation_affiliate_2": {
+      "value": "Dunkin' Brands, Inc. (Roark affiliate): 2019 no-poach settlement with 13 states/jurisdictions (CA Superior Court 19STCV09597); injunctive settlement",
+      "type": "absolute",
+      "item": "FDD Item 3, pp.13-14",
+      "note": "cite: FDD Item 3, pp.13-14"
+    },
+    "litigation_affiliate_3": {
+      "value": "Dunkin' Brands, Inc. (Roark affiliate): NYAG credential-stuffing suit 2019 (N.Y. Sup. Ct. 451787/2019); $650,000 consent settlement 2020; info-security program through Sept 2026",
+      "type": "absolute",
+      "item": "FDD Item 3, p.14",
+      "note": "cite: FDD Item 3, p.14"
+    },
+    "litigation_affiliate_4": {
+      "value": "Jimmy John's Franchisor SPV LLC (Roark affiliate): Maryland Securities Commissioner Case No. 2025-0122; $30,000 civil penalty consent order June 9, 2025 re FDD former-franchisee contact omission",
+      "type": "absolute",
+      "item": "FDD Item 3, p.14",
+      "note": "cite: FDD Item 3, p.14"
+    },
+    "litigation_pending_count_direct": {
+      "value": 0,
+      "type": "absolute",
+      "item": "FDD Item 3, p.14",
+      "note": "cite: FDD Item 3, p.14"
+    },
+    "bankruptcy_disclosed": {
+      "value": "None required to be disclosed",
+      "type": "absolute",
+      "item": "FDD Item 4, p.14",
+      "note": "cite: FDD Item 4, p.14"
+    },
+    "initial_franchise_fee": {
+      "value": 49000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.15",
+      "note": "cite: FDD Item 5, p.15"
+    },
+    "franchise_fee_refundable": {
+      "value": "Fully earned once paid; refundable only (less marketing/awarding/training costs) if franchisor withdraws approval during or after initial training",
+      "type": "absolute",
+      "item": "FDD Item 5, p.15",
+      "note": "cite: FDD Item 5, p.15"
+    },
+    "additional_franchise_fee": {
+      "value": 26500,
+      "type": "absolute",
+      "item": "FDD Item 5, p.16",
+      "note": "cite: FDD Item 5, p.16"
+    },
+    "transfer_initial_fee": {
+      "value": 7000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.16 (transferee signing Franchise Agreement in conjunction with transfer; waivable for existing franchisees acquiring low-revenue centers)",
+      "note": "cite: FDD Item 5, p.16 (transferee signing Franchise Agreement in conjunction with transfer; waivable for existing franchisees acquiring low-revenue centers)"
+    },
+    "development_fee_range": {
+      "value": "$75,500 to $129,000 for 2-5 centers ($63,250-$116,750 with veteran/educator discount)",
+      "type": "absolute",
+      "item": "FDD Item 5, p.16",
+      "note": "cite: FDD Item 5, p.16"
+    },
+    "tech_fee_preopen": {
+      "value": "$266/month beginning first full month after signing; $266-$1,596 anticipated before opening",
+      "type": "absolute",
+      "item": "FDD Item 5, p.15",
+      "note": "cite: FDD Item 5, p.15"
+    },
+    "digital_local_preopen_fee": {
+      "value": "$1,000/month beginning 2 months before anticipated opening; $2,000 anticipated pre-open; credited against $5,500 pre-opening advertising obligation",
+      "type": "absolute",
+      "item": "FDD Item 5, p.15",
+      "note": "cite: FDD Item 5, p.15"
+    },
+    "veteran_discount": {
+      "value": "25% off initial franchise fee (VetFran, qualifying veterans/active-duty)",
+      "type": "absolute",
+      "item": "FDD Item 5, p.16",
+      "note": "cite: FDD Item 5, p.16"
+    },
+    "educator_discount": {
+      "value": "25% off initial franchise fee (credentialed teachers/administrators, education-degree graduates per eligibility rules)",
+      "type": "absolute",
+      "item": "FDD Item 5, p.16",
+      "note": "cite: FDD Item 5, p.16"
+    },
+    "amount_to_franchisor_first": {
+      "value": "$51,266 to $52,596",
+      "type": "absolute",
+      "item": "FDD cover",
+      "note": "cite: FDD cover"
+    },
+    "initial_fee_range_paid_2025": {
+      "value": "$0 to $49,000",
+      "type": "absolute",
+      "item": "FDD Item 5, p.16",
+      "note": "cite: FDD Item 5, p.16"
+    },
+    "royalty_terms": {
+      "value": "10% of monthly Gross Receipts; from the 24th month of operation, the greater of 10% or $1,500/month",
+      "type": "absolute",
+      "item": "FDD Item 6, p.17",
+      "note": "cite: FDD Item 6, p.17"
+    },
+    "base_royalty": {
+      "value": "$650/month beginning 6 months after signing (first Center); franchisees currently pay a single base royalty across all centers operated",
+      "type": "absolute",
+      "item": "FDD Item 6, p.17",
+      "note": "cite: FDD Item 6, p.17"
+    },
+    "marketing_fund_fee": {
+      "value": "$250/month plus 2% of monthly Gross Receipts",
+      "type": "absolute",
+      "item": "FDD Item 6, p.17",
+      "note": "cite: FDD Item 6, p.17"
+    },
+    "digital_local_marketing_fee": {
+      "value": "Minimum $1,000/month, credited against local marketing spend",
+      "type": "absolute",
+      "item": "FDD Item 6, p.17",
+      "note": "cite: FDD Item 6, p.17"
+    },
+    "technology_license_fee": {
+      "value": "$266/month per Mathnasium Center",
+      "type": "absolute",
+      "item": "FDD Item 6, p.17",
+      "note": "cite: FDD Item 6, p.17"
+    },
+    "annual_convention_fee": {
+      "value": "$550 per attendee (generally May)",
+      "type": "absolute",
+      "item": "FDD Item 6, p.17",
+      "note": "cite: FDD Item 6, p.17"
+    },
+    "late_fee": {
+      "value": "$250 plus $100 every 2 weeks until paid",
+      "type": "absolute",
+      "item": "FDD Item 6, p.17",
+      "note": "cite: FDD Item 6, p.17"
+    },
+    "late_interest": {
+      "value": "10% per annum or highest permitted rate",
+      "type": "absolute",
+      "item": "FDD Item 6, p.18",
+      "note": "cite: FDD Item 6, p.18"
+    },
+    "transfer_fee": {
+      "value": 7000,
+      "type": "absolute",
+      "item": "FDD Item 6, p.18",
+      "note": "cite: FDD Item 6, p.18"
+    },
+    "transferee_training_fee": {
+      "value": "$3,000 (up to 2 people, transferee of existing operating center)",
+      "type": "absolute",
+      "item": "FDD Item 6, p.18",
+      "note": "cite: FDD Item 6, p.18"
+    },
+    "renewal_fee": {
+      "value": "$7,000, payable lump sum or 14 monthly installments of $500",
+      "type": "absolute",
+      "item": "FDD Item 6, p.18",
+      "note": "cite: FDD Item 6, p.18"
+    },
+    "training_additional_trainee": {
+      "value": "$1,000 per person beyond 2 initial trainees",
+      "type": "absolute",
+      "item": "FDD Item 6, p.18",
+      "note": "cite: FDD Item 6, p.18"
+    },
+    "noncompliance_fine": {
+      "value": "$300/month per non-complying incident",
+      "type": "absolute",
+      "item": "FDD Item 6, p.18",
+      "note": "cite: FDD Item 6, p.18"
+    },
+    "fee_increase_rule": {
+      "value": "Fixed-dollar fees may increase annually by greater of 3.0% or CPI-Service Group; no CPI adjustment to percentage royalty (10%) or marketing (2%)",
+      "type": "absolute",
+      "item": "FDD Item 6, pp.18-19",
+      "note": "cite: FDD Item 6, pp.18-19"
+    },
+    "royalty_rebate_acquisition": {
+      "value": "100% monthly royalty rebate up to $1,500/mo ($13,500 max) for 9 months when existing franchisee acquires center with <=$176,306 trailing gross receipts; tiered rebate to $278,021; annual policy review",
+      "type": "absolute",
+      "item": "FDD Item 6, p.19",
+      "note": "cite: FDD Item 6, p.19"
+    },
+    "total_investment_first": {
+      "value": "$127,316 to $165,846",
+      "type": "absolute",
+      "item": "FDD Item 7, p.22",
+      "note": "cite: FDD Item 7, p.22"
+    },
+    "total_investment_additional": {
+      "value": "$104,816 to $143,346",
+      "type": "absolute",
+      "item": "FDD Item 7, p.22",
+      "note": "cite: FDD Item 7, p.22"
+    },
+    "total_investment_development": {
+      "value": "$153,816 to $245,846 (2-5 centers)",
+      "type": "absolute",
+      "item": "FDD cover",
+      "note": "cite: FDD cover"
+    },
+    "additional_funds_4mo": {
+      "value": "$35,000 to $45,000 (first 4 months)",
+      "type": "absolute",
+      "item": "FDD Item 7, p.23",
+      "note": "cite: FDD Item 7, p.23"
+    },
+    "territory_model": {
+      "value": "Designated territory with protective rights; NOT exclusive \u2014 franchisor reserves broad rights (other channels, schools/distance learning, company centers outside territory, competing systems)",
+      "type": "absolute",
+      "item": "FDD Item 12, p.38",
+      "note": "cite: FDD Item 12, p.38"
+    },
+    "territory_size_rule": {
+      "value": "Territory believed to contain at least 2,500 children ages 5-19 at signing",
+      "type": "absolute",
+      "item": "FDD Item 12, p.38",
+      "note": "cite: FDD Item 12, p.38"
+    },
+    "territory_reconfiguration": {
+      "value": "Franchisor may reconfigure boundaries (target-market fit, relocation, boundary/demographic changes, manual-specified events)",
+      "type": "absolute",
+      "item": "FDD Item 12, p.38",
+      "note": "cite: FDD Item 12, p.38"
+    },
+    "location_restriction": {
+      "value": "Center must be inside territory; no teaching outside accepted location (incl. students' homes) without annual-renewal written approval; relocation only within territory with consent",
+      "type": "absolute",
+      "item": "FDD Item 12, p.38",
+      "note": "cite: FDD Item 12, p.38"
+    },
+    "owner_participation": {
+      "value": "Owner must personally participate and devote sufficient time; passive investment not sought; Center Director required (full-time during business hours); >=2 adults present when children in Center",
+      "type": "absolute",
+      "item": "FDD Item 15, p.44",
+      "note": "cite: FDD Item 15, p.44"
+    },
+    "owner_guarantee": {
+      "value": "All entity owners must personally guarantee franchise obligations",
+      "type": "absolute",
+      "item": "FDD Item 15, p.44",
+      "note": "cite: FDD Item 15, p.44"
+    },
+    "franchise_term_years": {
+      "value": 5,
+      "type": "absolute",
+      "item": "FDD Item 17, p.46",
+      "note": "cite: FDD Item 17, p.46"
+    },
+    "renewal_terms": {
+      "value": "Successor franchise agreements for additional 5-year terms if in good standing; renewal fee $7,000",
+      "type": "absolute",
+      "item": "FDD Item 17, p.46",
+      "note": "cite: FDD Item 17, p.46"
+    },
+    "dispute_resolution": {
+      "value": "Mediation/arbitration/litigation in Los Angeles County, California (state-required special-risk disclosure)",
+      "type": "absolute",
+      "item": "FDD p.iv (Special Risks)",
+      "note": "cite: FDD p.iv (Special Risks)"
+    },
+    "minimum_sales_performance": {
+      "value": "Minimum sales performance levels required; failure may cause loss of territorial rights, termination, loss of investment",
+      "type": "absolute",
+      "item": "FDD p.iv (Special Risks)",
+      "note": "cite: FDD p.iv (Special Risks)"
+    },
+    "mandatory_minimum_payments": {
+      "value": "Royalty payments owed regardless of sales levels",
+      "type": "absolute",
+      "item": "FDD p.iv (Special Risks)",
+      "note": "cite: FDD p.iv (Special Risks)"
+    },
+    "item19_scope": {
+      "value": "2025 Gross Receipts + P&L of 914 franchised US centers open and operated by same franchisee >=12 months (129 excluded; 4 company centers excluded); data tables presented as embedded images",
+      "type": "absolute",
+      "item": "FDD Item 19, pp.53-56",
+      "note": "cite: FDD Item 19, pp.53-56"
+    },
+    "item19_avg_gross_receipts": {
+      "value": 384874,
+      "type": "absolute",
+      "item": "FDD Item 19, Table 1 (embedded image, printed p.53)",
+      "note": "cite: FDD Item 19, Table 1 (embedded image, printed p.53)"
+    },
+    "item19_median_gross_receipts": {
+      "value": 326428,
+      "type": "absolute",
+      "item": "FDD Item 19, Table 1 (embedded image, printed p.53)",
+      "note": "cite: FDD Item 19, Table 1 (embedded image, printed p.53)"
+    },
+    "item19_avg_yoy_growth": {
+      "value": "13.3%",
+      "type": "absolute",
+      "item": "FDD Item 19, Table 1 (embedded image, printed p.53)",
+      "note": "cite: FDD Item 19, Table 1 (embedded image, printed p.53)"
+    },
+    "item19_top_quartile_avg": {
+      "value": 693314,
+      "type": "absolute",
+      "item": "FDD Item 19, Table 1 (embedded image, printed p.53)",
+      "note": "cite: FDD Item 19, Table 1 (embedded image, printed p.53)"
+    },
+    "item19_bottom_quartile_avg": {
+      "value": 176306,
+      "type": "absolute",
+      "item": "FDD Item 19, Table 1 (embedded image, printed p.53)",
+      "note": "cite: FDD Item 19, Table 1 (embedded image, printed p.53)"
+    },
+    "item19_met_exceeded_avg": {
+      "value": "355 of 914 (39%)",
+      "type": "absolute",
+      "item": "FDD Item 19, Table 1 (embedded image, printed p.53)",
+      "note": "cite: FDD Item 19, Table 1 (embedded image, printed p.53)"
+    },
+    "item19_avg_operating_profit": {
+      "value": 117000,
+      "type": "absolute",
+      "item": "FDD Item 19, Table 2 (embedded image, printed p.54)",
+      "note": "cite: FDD Item 19, Table 2 (embedded image, printed p.54)"
+    },
+    "item19_avg_operating_profit_pct": {
+      "value": "30.4% of reported gross receipts",
+      "type": "absolute",
+      "item": "FDD Item 19, Table 2 (embedded image, printed p.54)",
+      "note": "cite: FDD Item 19, Table 2 (embedded image, printed p.54)"
+    },
+    "item19_median_operating_profit": {
+      "value": 111630,
+      "type": "absolute",
+      "item": "FDD Item 19, Table 2 (embedded image, printed p.54)",
+      "note": "cite: FDD Item 19, Table 2 (embedded image, printed p.54)"
+    },
+    "item19_avg_instructor_payroll": {
+      "value": 79182,
+      "type": "absolute",
+      "item": "FDD Item 19, Table 2 (embedded image, printed p.54)",
+      "note": "cite: FDD Item 19, Table 2 (embedded image, printed p.54)"
+    },
+    "item19_avg_rent": {
+      "value": 49098,
+      "type": "absolute",
+      "item": "FDD Item 19, Table 2 (embedded image, printed p.54)",
+      "note": "cite: FDD Item 19, Table 2 (embedded image, printed p.54)"
+    },
+    "item19_avg_royalties_marketing": {
+      "value": 66883,
+      "type": "absolute",
+      "item": "FDD Item 19, Table 2 (embedded image, printed p.54)",
+      "note": "cite: FDD Item 19, Table 2 (embedded image, printed p.54)"
+    },
+    "outlets_franchised_2025": {
+      "value": 1043,
+      "type": "absolute",
+      "item": "FDD Item 20 Table 1, p.58",
+      "note": "cite: FDD Item 20 Table 1, p.58"
+    },
+    "outlets_company_2025": {
+      "value": 4,
+      "type": "absolute",
+      "item": "FDD Item 20 Table 1, p.58",
+      "note": "cite: FDD Item 20 Table 1, p.58"
+    },
+    "outlets_total_us_2025": {
+      "value": 1047,
+      "type": "absolute",
+      "item": "FDD Item 20 Table 1, p.58",
+      "note": "cite: FDD Item 20 Table 1, p.58"
+    },
+    "outlets_total_us_2023": {
+      "value": 972,
+      "type": "absolute",
+      "item": "FDD Item 20 Table 1, p.58",
+      "note": "cite: FDD Item 20 Table 1, p.58"
+    },
+    "outlets_total_us_2024": {
+      "value": 999,
+      "type": "absolute",
+      "item": "FDD Item 20 Table 1, p.58",
+      "note": "cite: FDD Item 20 Table 1, p.58"
+    },
+    "net_outlet_change_2023_2025": {
+      "value": "+93 (+9.7%)",
+      "type": "absolute",
+      "item": "FDD Item 20 Table 1, p.58",
+      "note": "cite: FDD Item 20 Table 1, p.58"
+    },
+    "franchisee_list_source": {
+      "value": "FDD Exhibit A-1: 922 outlet rows parsed (unique city/state: 756); full list with city/state/zip/phone as of 12/31/2025",
+      "type": "absolute",
+      "item": "FDD Exhibit A-1",
+      "note": "cite: FDD Exhibit A-1"
+    },
+    "net_worth_requirement": {
+      "value": "not disclosed in FDD",
+      "type": "not_disclosed_verified",
+      "item": "FDD full-text grep: 0 hits for 'net worth' (netWorthRequirement)",
+      "note": "cite: FDD full-text grep: 0 hits for 'net worth' (netWorthRequirement)"
+    },
+    "liquid_capital_requirement": {
+      "value": "not disclosed in FDD",
+      "type": "not_disclosed_verified",
+      "item": "FDD full-text grep: 0 hits for 'liquid capital' (liquidCapitalRequirement)",
+      "note": "cite: FDD full-text grep: 0 hits for 'liquid capital' (liquidCapitalRequirement)"
+    },
+    "financial_statements": {
+      "value": "Audited financial statements for fiscal year ending 12/31/2025 and period from July 11, 2024 (Exhibit C)",
+      "type": "absolute",
+      "item": "FDD Item 21, p.66; FDD Exhibit C",
+      "note": "cite: FDD Item 21, p.66; FDD Exhibit C"
+    },
+    "risk_score": {
+      "value": 30,
+      "type": "theoretical",
+      "item": "base 20 +6 capital intensity (investment ceiling $165,846) +4 protected-but-non-exclusive territory with broad franchisor reserved rights (Item 12) +6 fee-burden stack (10% royalty, $650/mo base royalty, $1,500/mo minimum from month 24, $250+2% marketing, $1,000/mo digital/local marketing) +4 owner active participation required, no passive investment (Item 15) +2 renewal cost drag ($7,000 renewal fee) +2 new franchisor entity (Mathnasium Franchisor LLC organized July 2024; brand franchised since 2003) -6 Item 19 strength (914 centers, avg operating profit $117,000 / 30.4%, avg receipts $384,874, 13.3% YoY) -4 unit growth 2023-2025 (+93 outlets, +9.7%) -2 audited financial statements attached (Item 21) -2 PE backing (Roark Capital majority Nov 2021) = 30/100",
+      "note": "THEORETICAL \u2014 base 20 +6 capital intensity (investment ceiling $165,846) +4 protected-but-non-exclusive territory with broad franchisor reserved rights (Item 12) +6 fee-burden stack (10% royalty, $650/mo base royalty, $1,500/mo minimum from month 24, $250+2% marketing, $1,000/mo digital/local marketing) +4 owner active participation required, no passive investment (Item 15) +2 renewal cost drag ($7,000 renewal fee) +2 new franchisor entity (Mathnasium Franchisor LLC organized July 2024; brand franchised since 2003) -6 Item 19 strength (914 centers, avg operating profit $117,000 / 30.4%, avg receipts $384,874, 13.3% YoY) -4 unit growth 2023-2025 (+93 outlets, +9.7%) -2 audited financial statements attached (Item 21) -2 PE backing (Roark Capital majority Nov 2021) = 30/100"
+    },
+    "litigation_risk_flag": {
+      "value": "LOW",
+      "type": "theoretical",
+      "item": "Item 3 discloses no Mathnasium-direct litigation; matters are Roark-affiliate settlements with no impact on the brand per FDD",
+      "note": "THEORETICAL \u2014 Item 3 discloses no Mathnasium-direct litigation; matters are Roark-affiliate settlements with no impact on the brand per FDD"
+    },
+    "match_risk_appetite": {
+      "value": "Moderate-low: ~$127K-$166K capital commitment, 10%+ fee burden with minimums, active owner required; offset by strong Item 19 margins and steady growth",
+      "type": "matching",
+      "item": "risk inputs: Items 3, 5, 6, 7, 12, 15, 19",
+      "note": "MATCHING \u2014 risk inputs: Items 3, 5, 6, 7, 12, 15, 19"
+    },
+    "match_investor_profile": {
+      "value": "Owner-operators with education-service interest; not passive investors",
+      "type": "matching",
+      "item": "Items 1, 15",
+      "note": "MATCHING \u2014 Items 1, 15"
+    },
+    "match_sector": {
+      "value": "Education / Tutoring",
+      "type": "matching",
+      "item": "business description",
+      "note": "MATCHING \u2014 business description"
+    },
+    "category_guess": {
+      "value": "Education",
+      "type": "matching",
+      "item": "FDD Item 1",
+      "note": "MATCHING \u2014 FDD Item 1"
+    }
+  },
+  "extractor": "mathnasium-build",
+  "extraction_timestamp_utc": "2026-09-14T17:39:18.442918+00:00",
+  "fdd_filename": "mathnasium.pdf",
+  "fdd_sha256": "771fb8f9c520f5b0c9403f346a8ff2c8ad6e1fd40eefbafeafb0905d07e8890f",
+  "live_url": "https://bennett-maxwell.github.io/mathnasium/",
+  "netWorthRequirement": "not disclosed in FDD",
+  "netWorthRequirementNote": "FDD full-text grep: 0 hits for 'net worth' \u2014 genuinely undisclosed (three-state: not_disclosed_verified)",
+  "liquidCapitalRequirement": "not disclosed in FDD",
+  "liquidCapitalRequirementNote": "FDD full-text grep: 0 hits for 'liquid capital' \u2014 genuinely undisclosed (three-state: not_disclosed_verified)",
+  "pinVerification": {
+    "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode of each pin's (city, state); haversine vs stored plotted coords; 50km tolerance",
+    "run_utc": "2026-09-15T02:00:46.657763+00:00",
+    "pins_total": 15,
+    "pins_verified": 15,
+    "pins_mismatch": 0,
+    "pins_unverifiable": 0,
+    "all_verified": true,
+    "per_pin": [
+      {
+        "pin": 0,
+        "city": "Los Angeles",
+        "state": "CA",
+        "stored": [
+          34.0536909,
+          -118.242766
+        ],
+        "geocoded": [
+          34.053691,
+          -118.242766
+        ],
+        "geocode_query": "Los Angeles, California, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 1,
+        "city": "Phoenix",
+        "state": "AZ",
+        "stored": [
+          33.4484367,
+          -112.074141
+        ],
+        "geocoded": [
+          33.448437,
+          -112.074141
+        ],
+        "geocode_query": "Phoenix, Arizona, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 2,
+        "city": "Dallas",
+        "state": "TX",
+        "stored": [
+          32.7762719,
+          -96.7968559
+        ],
+        "geocoded": [
+          32.776272,
+          -96.796856
+        ],
+        "geocode_query": "Dallas, Texas, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 3,
+        "city": "Houston",
+        "state": "TX",
+        "stored": [
+          29.7589382,
+          -95.3676974
+        ],
+        "geocoded": [
+          29.758938,
+          -95.367697
+        ],
+        "geocode_query": "Houston, Texas, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 4,
+        "city": "Chicago",
+        "state": "IL",
+        "stored": [
+          41.8755616,
+          -87.6244212
+        ],
+        "geocoded": [
+          41.875562,
+          -87.624421
+        ],
+        "geocode_query": "Chicago, Illinois, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 5,
+        "city": "Atlanta",
+        "state": "GA",
+        "stored": [
+          33.7544657,
+          -84.3898151
+        ],
+        "geocoded": [
+          33.754466,
+          -84.389815
+        ],
+        "geocode_query": "Atlanta, Georgia, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 6,
+        "city": "Orlando",
+        "state": "FL",
+        "stored": [
+          28.5421218,
+          -81.379045
+        ],
+        "geocoded": [
+          28.542122,
+          -81.379045
+        ],
+        "geocode_query": "Orlando, Florida, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 7,
+        "city": "Denver",
+        "state": "CO",
+        "stored": [
+          39.7392364,
+          -104.984862
+        ],
+        "geocoded": [
+          39.739236,
+          -104.984862
+        ],
+        "geocode_query": "Denver, Colorado, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 8,
+        "city": "New York",
+        "state": "NY",
+        "stored": [
+          40.7127281,
+          -74.0060152
+        ],
+        "geocoded": [
+          40.712728,
+          -74.006015
+        ],
+        "geocode_query": "New York, New York, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 9,
+        "city": "Philadelphia",
+        "state": "PA",
+        "stored": [
+          39.9527237,
+          -75.1635262
+        ],
+        "geocoded": [
+          39.952724,
+          -75.163526
+        ],
+        "geocode_query": "Philadelphia, Pennsylvania, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 10,
+        "city": "Minneapolis",
+        "state": "MN",
+        "stored": [
+          44.9772995,
+          -93.2654692
+        ],
+        "geocoded": [
+          44.9773,
+          -93.265469
+        ],
+        "geocode_query": "Minneapolis, Minnesota, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 11,
+        "city": "Charlotte",
+        "state": "NC",
+        "stored": [
+          35.2272086,
+          -80.8430827
+        ],
+        "geocoded": [
+          35.227209,
+          -80.843083
+        ],
+        "geocode_query": "Charlotte, North Carolina, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 12,
+        "city": "San Francisco",
+        "state": "CA",
+        "stored": [
+          37.7879363,
+          -122.4075201
+        ],
+        "geocoded": [
+          37.787936,
+          -122.40752
+        ],
+        "geocode_query": "San Francisco, California, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 13,
+        "city": "Nashville",
+        "state": "TN",
+        "stored": [
+          36.1622767,
+          -86.7742984
+        ],
+        "geocoded": [
+          36.162277,
+          -86.774298
+        ],
+        "geocode_query": "Nashville, Tennessee, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 14,
+        "city": "Portland",
+        "state": "OR",
+        "stored": [
+          45.5202471,
+          -122.674194
+        ],
+        "geocoded": [
+          45.520247,
+          -122.674194
+        ],
+        "geocode_query": "Portland, Oregon, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      }
+    ]
+  },
+  "pinsUpdatedAt": "2026-09-15T02:00:46.657763+00:00",
+  "risk_method": "base 20 + capital_intensity 6 + protected_non_exclusive_territory 4 + fee_burden_stack 6 + owner_participation_required 4 + renewal_cost_drag 2 + new_franchisor_entity 2 - item19_strength 6 - unit_growth 4 - audited_financials 2 - pe_backing 2 = 30",
+  "risk_components": [
+    {
+      "name": "capital_intensity",
+      "weight": 6,
+      "note": "FDD Item 7"
+    },
+    {
+      "name": "protected_non_exclusive_territory",
+      "weight": 4,
+      "note": "protected-but-non-exclusive territory with broad franchisor reserved rights (FDD Item 12)"
+    },
+    {
+      "name": "fee_burden_stack",
+      "weight": 6,
+      "note": "FDD Item 6"
+    },
+    {
+      "name": "owner_participation_required",
+      "weight": 4,
+      "note": "owner active participation required, no passive investment (FDD Item 11)"
+    },
+    {
+      "name": "renewal_cost_drag",
+      "weight": 2,
+      "note": "FDD Item 17"
+    },
+    {
+      "name": "new_franchisor_entity",
+      "weight": 2,
+      "note": "FDD Item 1"
+    },
+    {
+      "name": "item19_strength",
+      "weight": -6,
+      "note": "FDD Item 19"
+    },
+    {
+      "name": "unit_growth",
+      "weight": -4,
+      "note": "+9.7% (FDD Item 20)"
+    },
+    {
+      "name": "audited_financials",
+      "weight": -2,
+      "note": "audited financial statements (FDD Item 21)"
+    },
+    {
+      "name": "pe_backing",
+      "weight": -2,
+      "note": "FDD Item 1"
+    }
+  ],
+  "risk_source": "page Method text"
 }
